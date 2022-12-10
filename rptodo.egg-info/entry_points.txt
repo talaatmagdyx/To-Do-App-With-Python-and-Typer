@@ -1,0 +1,2 @@
+[console_scripts]
+rptodo = rptodo.cli:app
